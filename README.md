@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning HTML, CSS and Javascript.
 <div>
   <a href="https://github.com/LenitoArruda">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LenitoArruda&count_private=true&show_icons=true&theme=city_lights">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LenitoArruda&layout=compact&langs_count=7&theme=city_lights"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=LenitoArruda&count_private=true&show_icons=true&theme=city_lights">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LenitoArruda&layout=compact&langs_count=7&theme=city_lights"/>
 </div>
 <hr width="100%">
 <div style="display: inline_block"><br>
