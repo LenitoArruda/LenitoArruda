@@ -1,11 +1,14 @@
 ## Hi, I'm Lenito Arruda.
 
 - 🌱 I’m currently learning HTML, CSS and Javascript.
+<br>
 <div>
   <a href="https://github.com/LenitoArruda">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=LenitoArruda&count_private=true&show_icons=true&theme=city_lights">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LenitoArruda&layout=compact&langs_count=7&theme=city_lights"/>
+    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=LenitoArruda&count_private=true&show_icons=true&theme=city_lights">
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LenitoArruda&layout=compact&langs_count=7&theme=city_lights"/>
+  </a>
 </div>
+<br>
 <hr width="100%">
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML 5" height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />&nbsp
@@ -14,8 +17,9 @@
   <img align="center" alt="PHP" height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />&nbsp 
   <img align="center" alt="Java" height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>&nbsp
   <img align="center" alt="MySQL" height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>&nbsp
-  <img align="center" alt="PostgreSQL" height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>&nbsp
+  <img align="center" alt="PostgreSQL" height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
 </div>
+<br>
 <hr width="100%">
 <div>
   <a href="https://www.facebook.com/lenito.arruda" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
