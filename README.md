@@ -1,6 +1,4 @@
 ## Hi, I'm Lenito Arruda.
-
-- 🌱 I’m currently learning HTML, CSS and Javascript.
 <br>
 <div>
  <a href="https://github.com/LenitoArruda">
